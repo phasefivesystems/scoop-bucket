@@ -1,12 +1,12 @@
 {
-  "version": "10.10.0",
+  "version": "10.10.6",
   "description": "CLI tool and MCP server for Jump Desktop remote control",
   "homepage": "https://jumpdesktop.com",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://jumpdesktop.com/downloads/cli/jump-cli_10.10.0_windows_amd64.zip",
-      "hash": "b214c1b16953d25777417365e4f49b86de34ed943128b075422fd47ee800fdcb"
+      "url": "https://jumpdesktop.com/downloads/cli/jump-cli_10.10.6_windows_amd64.zip",
+      "hash": "d7652d4ddb0959699cc849019009ed9e2876c8185b7ea22c318000dfdafb3bf2"
     }
   },
   "bin": "jump-cli.exe"
